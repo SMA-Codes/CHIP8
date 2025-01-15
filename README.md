@@ -37,24 +37,6 @@ Ensure the following dependencies are installed on your system:
    - GCC (g++) or Clang for Linux/MacOS.
    - MSVC for Windows.
 
-### Build Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SMA-Codes/CHIP8
-   cd chip8-emulator
-   ```
-2. Build the project:
-   ```bash
-   mkdir build && cd build
-   cmake ..
-   make
-   ```
-3. Run the emulator:
-   ```bash
-   ./chip8-emulator path/to/rom
-   ```
-
 ## Usage
 
 1. Download a CHIP-8 ROM file (e.g., Tetris, Pong).
