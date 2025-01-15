@@ -98,3 +98,6 @@ This project is licensed under the MIT License.
 - Thanks to the CHIP-8 community and existing resources that have inspired this project.
 - Special credit to [Cowgod's CHIP-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM).
 
+
+![image](https://github.com/user-attachments/assets/3fe788b0-46a2-4724-a13a-1cfc62713ccf)
+
